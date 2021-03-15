@@ -1,4 +1,5 @@
 apply plugin: "com.android.application"
+apply plugin: 'com.huawei.agconnect'
 apply from: "../../node_modules/react-native-vector-icons/fonts.gradle"
 import com.android.build.OutputFile
 
@@ -152,6 +153,12 @@ android {
             keyAlias 'androiddebugkey'
             keyPassword 'android'
         }
+        release {
+            storeFile file('pruebaTeorica.jks')
+            storePassword '280593'
+            keyAlias 'pruebaTeorica'
+            keyPassword '280593'
+       }
     }
     buildTypes {
         debug {
