@@ -12,7 +12,6 @@
   "dependencies": {
     "@hmscore/react-native-hms-analytics": "^5.1.0-300-02",
     "@react-native-community/masked-view": "^0.1.10",
-    "@react-native-masked-view/masked-view": "^0.2.2",
     "@react-navigation/drawer": "^5.12.4",
     "@react-navigation/native": "^5.9.3",
     "@react-navigation/stack": "^5.14.3",
