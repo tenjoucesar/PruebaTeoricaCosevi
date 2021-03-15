@@ -1,0 +1,2882 @@
+[
+  {
+    "questionNumber": 1,
+    "questionText": "¿En que tipo de vias es recomendable cruzar en las zonas de seguridad o esquinas? ",
+    "answerOptions": [
+      {
+        "answerText": "Vias urbanas.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Vias rurales.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Vias de circulacion.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 2,
+    "questionText": "¿Que elemento provee la fuerza de traccion a la motocicleta?",
+    "answerOptions": [
+      {
+        "answerText": "El motor de la motocicleta.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Los cambios de la motocicleta.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "El acelerador de la motocicleta.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 3,
+    "questionText": "¿En que lugares no estara permitido el adelantamiento?",
+    "answerOptions": [
+      {
+        "answerText": "Islas de canalizacion y lineas continuas.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Calles,avenidas o intersecciones.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Puentes, curvas o intersecciones.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 4,
+    "questionText": "¿De que tipo es el movimiento realizado por una biela en el interior del motor?",
+    "answerOptions": [
+      {
+        "answerText": "Alternativo.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Rotacion.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Traslacion.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 5,
+    "questionText": "¿Como se definen los contaminates secundarios del aire?",
+    "answerOptions": [
+      {
+        "answerText": "Son los que permanecen en la atmosfera tal y como se lanzan.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Son los que se forman cuando contaminates primarios reaccionan en la atmosfera.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Son los que resultan de una reaccion quimica y permanecen en la atmosfera tal y como se lanzan.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 6,
+    "questionText": "¿Las vias con un alto numero de vehiculos o mayor cantidad de carriles se conocen como?",
+    "answerOptions": [
+      {
+        "answerText": "Calles.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Vias principales.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Avenidas.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 7,
+    "questionText": "¿Que accion lleva a cabo todo transporte?",
+    "answerOptions": [
+      {
+        "answerText": "Trasladarse.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Circular.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Desplazarse.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 8,
+    "questionText": "¿Que elemento provee la fuerza de traccion a la motocicleta?",
+    "answerOptions": [
+      {
+        "answerText": "El motor de la motocicleta.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Los cambios de la motocicleta.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "El acelerador de la motocicleta.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 9,
+    "questionText": "¿A que hace referencia la definicion 'circulacion rotatoria alrededor de una isleta central'?",
+    "answerOptions": [
+      {
+        "answerText": "Rotonda.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Via de circulacion.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Via secundaria.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 10,
+    "questionText": "¿Que tipo de curva podemos encontar en una cuesta?",
+    "answerOptions": [
+      {
+        "answerText": "Parabolica o vertical.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Horizontal o parabolica.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Circular unicamente.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 11,
+    "questionText": "¿Que vehiculo tendra prioridad de paso si se encuentran un vehiculo de emergencia que este autorizado y un vehiculo que circule sobre rieles?",
+    "answerOptions": [
+      {
+        "answerText": "El vehiculo que circule sobre rieles.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Ambos vehiculos tendran prioridad.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "El vehiculo de emergencia.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 12,
+    "questionText": "¿Cual es la primera accion que debemos llevar a cabo en la conduccion nocturna en motocicleta?",
+    "answerOptions": [
+      {
+        "answerText": "Revisar los frenos del vehiculo.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Aseguramos de que las luces del vehiculo funcionan correctamente.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Utilizar siempre ropa de colores reflectivos.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 13,
+    "questionText": "¿Por que razones el alcohol es incompatible con el manejo de un vehiculo?",
+    "answerOptions": [
+      {
+        "answerText": "Por que incrementa la capacidad visual y crea una falsa apreciacion de las cosas.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Por que aumenta el grado de maniobrabilidad y crea un estado de somnolencia.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Por que aumenta el tiempo de raccion y crea un estado de euforia falso.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 14,
+    "questionText": "Si dos vehiculos llegan a una interseccion no regulada ni señalada, o con iguales condiciones de señalamiento en sentidos opuestos,¿ que prioridad tiene el giro hacia la izquierda ?",
+    "answerOptions": [
+      {
+        "answerText": "3.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "2.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "1.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 15,
+    "questionText": "¿De que tres factores depende la conduccion nocturna?",
+    "answerOptions": [
+      {
+        "answerText": "Vision, Carretera, vehiculo.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Vision, visibilidad, ojos de gato.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Iluminacion, velocidad, visibilidad.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 16,
+    "questionText": "¿Cual es el freno principal en una motocicleta?",
+    "answerOptions": [
+      {
+        "answerText": "Tanto el trasero como el delantero, indistintamente.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "El freno trasero.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "El freno delantero.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 17,
+    "questionText": "¿Que significado tendra tambien el objetivo de seguridad vial basado en el aprovechamiento de las vias circulacion?",
+    "answerOptions": [
+      {
+        "answerText": "Mayor seguridad.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Disminucion de la contaminacion.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Dar mayor fluidez al transito.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 18,
+    "questionText": "¿Cual es el elemneto mas importante dentro del equipamiento de proteccion del motociclista?",
+    "answerOptions": [
+      {
+        "answerText": "Las coderas y las rodillas.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "El chaleco.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "El casco.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 19,
+    "questionText": "¿A que se le conoce como 'pie de pluma' y 'pie de plomo'?",
+    "answerOptions": [
+      {
+        "answerText": "A la fuerza que el pie ejerce sobre el acelerador.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "A la cantidad de combustible que suministra el conductor al motor.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "A dejar el pie sobre el clouch durante toda la conduccion.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 20,
+    "questionText": "¿Que se utiliza como referencia para actualizar el monto de las multas establecidas en la ley 9078?",
+    "answerOptions": [
+      {
+        "answerText": "Producto interno bruto.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "El indice de precios al consumidor.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "El impuesto de venta.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 21,
+    "questionText": "¿Como debe hacerse la accion de frenarr una motocicleta?",
+    "answerOptions": [
+      {
+        "answerText": "De manera progresiva y con suavidad.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Con contundencia en cualquier tipo de situacion.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Con una anticipacion de tres segundos como minimo.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 22,
+    "questionText": "¿En que tipo de vias es recomendable cruzar en las zonas de seguridad o esquinas?",
+    "answerOptions": [
+      {
+        "answerText": "Vias urbanas.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Vias rurales.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Vias de circulacion.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 23,
+    "questionText": "¿De que sistema del vehiculo forman parte la bomba, el aceite y el tubo de distribucion?",
+    "answerOptions": [
+      {
+        "answerText": "Sistema de lubricacion.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Sistema de enfriamiento.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Sistema electrico.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 24,
+    "questionText": "¿Cual de los siguientes es un elemento clave parar el funcionamiento de la sociedad y ala vez causante de mucha contaminacion?",
+    "answerOptions": [
+      {
+        "answerText": "El transito.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "El entorno y la via.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "El vehiculo.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 25,
+    "questionText": "¿Que distancia de seguridad debemos mantener con el vehiculo que nos antecede cuando circulamos en motocicleta?",
+    "answerOptions": [
+      {
+        "answerText": "Distancia de 3 segundos.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Distancia de 2 segundos.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Distancia de 1 segundos.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 26,
+    "questionText": "¿Se entiende como transporte?",
+    "answerOptions": [
+      {
+        "answerText": "La accion de transitar con el parque automotor que circule por la via publica.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "El medio que utilizaremos para trasladarnos de un lugar a otro.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "La accion de trasladar a una cosa o persona de un lugar a otro.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 27,
+    "questionText": "¿Cual de las siguientes feu la causa que provoco un aumento de la tasa de accidentes de transito en Costa Rica durante decada de los 70 y 80?",
+    "answerOptions": [
+      {
+        "answerText": "Crecimiento inesperado del consumo de drogas y alcohol por parte de los conductores.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Falta de respeto a las señalizaciones de las vias publicas.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Crecimiento inesperado del volumen de vehiculos.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 28,
+    "questionText": "¿Que debera hacer un conductor de motocicleta prudente antes de empezar un viaje?",
+    "answerOptions": [
+      {
+        "answerText": "Tomar alcohol.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Usar ropa adecuada y famializarse con la motocicleta.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Tomar drogas.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 29,
+    "questionText": "¿El petroleo es un recurso?",
+    "answerOptions": [
+      {
+        "answerText": "Renovable.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Reciclable.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "No renovable.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 30,
+    "questionText": "¿Mediante que figura se representara a la trilogia vial?",
+    "answerOptions": [
+      {
+        "answerText": "Triangulo.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Rectangulo.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Rombo.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 31,
+    "questionText": "¿Por que carril abandonaran la rotonda los conductores de vehiculos que entren a ella por un carril externo?",
+    "answerOptions": [
+      {
+        "answerText": "Por cualquier carril.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Por el carril interno.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Por el carril externo.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 32,
+    "questionText": "¿De que sistema forma parte el silenciador?",
+    "answerOptions": [
+      {
+        "answerText": "Sistema de dirrecion.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Sistema de escape.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Sistema electrico.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 33,
+    "questionText": "¿A que afectara un fallo en alguno de los elementos de la trilogia vial?",
+    "answerOptions": [
+      {
+        "answerText": "A la circulacion.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "A la estructura vial.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "A la via publica.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 34,
+    "questionText": "¿Cual es la colision mas habitual en las carreteras si no guardamos la debida distancia de seguridad?",
+    "answerOptions": [
+      {
+        "answerText": "Colision frontal.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Colision trasera.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Colision lateral.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 35,
+    "questionText": "¿Que efectos produce un silenciador o un tubo de escape que se encuentre tapado o roto?",
+    "answerOptions": [
+      {
+        "answerText": "Baja concentracion de los niveles de aceite.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Intoxicacion por el monoxido de carbono desprendido.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Aumento de las revoluciones por minuto del motor.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 36,
+    "questionText": "¿Cual de las siguientes afirmaciones sobre las rotondas es cierta?",
+    "answerOptions": [
+      {
+        "answerText": "Se deben Utilizar las luces altas dentro de ella.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Se girara en el sentido de las agujas del reloj.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "El conductor se colocara en el carril que convenga segun la direccion de salida que tenga.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 37,
+    "questionText": "¿De que forma parte las intersecciones?",
+    "answerOptions": [
+      {
+        "answerText": "De los principales elementos de la infraestructura.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "De las vias rurales y urbanas.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "De la estructura vial.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 38,
+    "questionText": "¿Que afirmacion sobre las rotondas es cierta?",
+    "answerOptions": [
+      {
+        "answerText": "SLos vehiculos que ingresan a la rotonda tendran prioridad sobre los que estan dentro de ella.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "No esta permitido adelantar en las rotondas.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Esta permitido adelnatar en las rotondas.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 39,
+    "questionText": "¿A que distancia debera cambiarse la luz alta por la corta cuando crucemos con otro vehiculo en la linea recta o antes de entrar a una curva?",
+    "answerOptions": [
+      {
+        "answerText": "100 metros.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "75 metros.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "150 metros.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 40,
+    "questionText": "¿Que gas contaminante se produce por cada litro de gasolina consumido?",
+    "answerOptions": [
+      {
+        "answerText": "1 Kilometro de H20.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "1 Kilogramos de monoxido de carbono.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "2,3 Kilogramos de dioxido de carbono.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 41,
+    "questionText": "¿Cual sera la definicion correcta de contaminacion? ",
+    "answerOptions": [
+      {
+        "answerText": "El entorno que forman los vehiculos carburados.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "El entorno que genera las emaciones de tipo mal olientes.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "El impacto que el ser humano produce en el equilibrio de la naturalza",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 42,
+    "questionText": "¿Que implica para un conductor el saber y poder manejar un vehiculo? ",
+    "answerOptions": [
+      {
+        "answerText": "Manejar constantemente a la defensiva.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Llevar la documentacion del vehiculo al dia.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Tener las condiciones psiquicas y fisicas para poder conducir.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 43,
+    "questionText": "¿Que nombre recibe la ley que rige actualmente en materia de transito? ",
+    "answerOptions": [
+      {
+        "answerText": "Ley de Administracion Vial.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Ley de transito por vias publicas, terrestres y seguridad vial.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Ley de transito por vias privadas terrestres.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 44,
+    "questionText": "¿Que sistema es el que permite que el conductor haga circular el vehiculo en cierta dirrecion? ",
+    "answerOptions": [
+      {
+        "answerText": "Sistema de suspension.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Sistema de dirrecion.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Sistema electrico.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 45,
+    "questionText": "¿Cual de las siguientes condiciones emocionales hace que el conductor sea descuidado y no se concentre en la conduccion? ",
+    "answerOptions": [
+      {
+        "answerText": "Negligencia.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Ira.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Vanidad.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 46,
+    "questionText": "¿Cuales son las secciones de una via rural? ",
+    "answerOptions": [
+      {
+        "answerText": "Espaldon, caño y calzada.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Espaldon, cuneta y calzada.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Borde de acera, acera, calzada y caño.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 47,
+    "questionText": "¿Cuales salidas puede tomar un vehiculo situado en el carril interno de una rotonda? ",
+    "answerOptions": [
+      {
+        "answerText": "No se puede ingresar por el carril interno.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Segunda y posteriores.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "primera.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 48,
+    "questionText": "Si una rotonda dispone de tres carriles de entrada y de salida,¿que podremos hacer en el carril central? ",
+    "answerOptions": [
+      {
+        "answerText": "Salir por los carriles cuatro o tres.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Unicamente salir por el carril central de la segunda salida.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Salir por cualquier carril.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 49,
+    "questionText": "¿Que nombre recibe la fuerza que se opone al desplazamiento vehicular? ",
+    "answerOptions": [
+      {
+        "answerText": "Resistencia por inercia.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Resistencia aerodinamica.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Fuerza centrifuga.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 50,
+    "questionText": "¿Cuales son las modalidades de la licencia de conducir tipo A? ",
+    "answerOptions": [
+      {
+        "answerText": "A-1 y A-2.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "A-1, A-2 y A-3.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "A-1, A-2, A-3 y A-4.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 51,
+    "questionText": "¿Cuantos puntos de apoyo tendra un vehiculo de dos ruedas? ",
+    "answerOptions": [
+      {
+        "answerText": "Tendra los mismos puntos de apoyo con la carretera que un vehiculo de cuatro ruedas.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Tendra menos puntos de apoyo con la carretera que un vehiculo de cuatro ruedas.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Tendra mas puntos de apoyo con la carretera que un vehiculo de cuatro ruedas.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 52,
+    "questionText": "¿Que sistema mantiene la temperatura ideal del motor? ",
+    "answerOptions": [
+      {
+        "answerText": "Sistema de embrague.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Sistema de lubricacion.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Sistema de enfriamiento.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 53,
+    "questionText": "¿En que subsistemas se divide el sistema electrico? ",
+    "answerOptions": [
+      {
+        "answerText": "Sistemas de servicio, de alumbrado y de emergencia.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Sistema de alumbrado, de señalizacion y acumulacion.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Sistema de arranque, carga y de alumbrado y servicios.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 54,
+    "questionText": "El hollin puede ser producido por...",
+    "answerOptions": [
+      {
+        "answerText": "Motores en mal estado que no queman correctamente el diesel o la gasolina.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Todos los motores de gasolina sin excepcion.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Los motores diesel.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 55,
+    "questionText": "¿Que se entiende por conciencia ecologica? ",
+    "answerOptions": [
+      {
+        "answerText": "La capacidad de los humanos de entender que deben cuidar siempre el entorno automotor.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "La capacidad de los humanos de entender que son dependientes de la naturaleza y a la vez responsable de su correcta conservacion.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "La capacidad de los humanos de entender que siempre deben cuidar el entorno peatonal.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 56,
+    "questionText": "¿Como se definen los contaminantes primarios del aire? ",
+    "answerOptions": [
+      {
+        "answerText": "SDon los que resultan como producto de la reaccion quimica de dos o mas contaminantes.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "VSon los que permanecen en la atmosfera tal y como se lanzan.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Son los que resultan de una reaccion quimica y permanecen en la atmosfera tal y como se lanzan.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 57,
+    "questionText": "¿En que consisten los esfuerzos que todos debemos hacer para mejorar el ambiente? ",
+    "answerOptions": [
+      {
+        "answerText": "Crear en los ciudadanos una conciencia ecologica y crear leyes ambientales que sean cumplidas.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Reciclar constantemente.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Construir zonas de transito mas seguras.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 58,
+    "questionText": "¿Que instrumento mide las revoluciones por minuto de un motor con una aguja que gira de izquierda a derecha? ",
+    "answerOptions": [
+      {
+        "answerText": "Tacometro telegrafico.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Tacometro digital.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Tacometro analogico.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 59,
+    "questionText": "¿De cuantos articulos y transitorios se compone la Ley de Transito? ",
+    "answerOptions": [
+      {
+        "answerText": "850 articulos y 23 transitorios.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "252 articulos y 23 transitorios.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "200 articulos y 15 transitorios.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 60,
+    "questionText": "¿De que sistema del vehiculo forman parte de las barras de torsion y la rotula? ",
+    "answerOptions": [
+      {
+        "answerText": "Sistema de alimentacion.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Sistema de suspension y amortiguacion.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Sistema de escape.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 61,
+    "questionText": "Los principales elementos de la estructura vial son... ",
+    "answerOptions": [
+      {
+        "answerText": "Intersecciones, señalamientos y vias de circulacion.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Via publica y urbana.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Via publica, urbana y señalamiento (vertical y horizontal).",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 62,
+    "questionText": "¿De que tipo es el movimiento realizado por una biela en el interior del motor? ",
+    "answerOptions": [
+      {
+        "answerText": "Alternativo.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Rotacion.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Traslacion.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 63,
+    "questionText": "¿A que obliga la señal de CEDA? ",
+    "answerOptions": [
+      {
+        "answerText": "A disminuir la velocidad del vehiculo, llegando incluso a detenerlo si fuera necesario.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "A establecer la prioridad del paso antes que los oficiales de Transito.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "A detener completamente nuestro vehiculo aunque no sea seguro.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 64,
+    "questionText": "¿Cual de las siguientes es una de las claves para ser competitivo en la industria del transporte? ",
+    "answerOptions": [
+      {
+        "answerText": "La conduccion de vehiculos automotores de manera eficiente.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Generar nuevas fuentes de empleo para mejorar la calidad de vida.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Minimizar los costos de operacion reduciendo al maximos los costos de mantenimiento.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 65,
+    "questionText": "¿Advertir al usuario sobre la existencia de posibles peligros y obstaculos en la via es una funcion de? ",
+    "answerOptions": [
+      {
+        "answerText": "Seguridad Vial.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Señalamiento Vial.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Señales Horizantales.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 66,
+    "questionText": "Un vehiculo circula por el carril externo de una rotonda y otro quiere entrar por el carril interno.¿Cual de los dos tiene prioridad? ",
+    "answerOptions": [
+      {
+        "answerText": "El vehiculo que ya esta dentro de la rotonda y va por el carril externo.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Ambos tendran la misma prioridad.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "El vehiculo que entra por el carril interno, ya que tendra prioridad por ser el carril de facil acceso.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 67,
+    "questionText": "¿En que dos categorias se dividen los problemas de salud que nos pueden impedir conducir? ",
+    "answerOptions": [
+      {
+        "answerText": "Primarios o secundarios.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Permanentes o transitorios.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Peligrosos o pasivos.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 68,
+    "questionText": "¿Cuales son algunos de los elementos que componen el sistema general del control de emisiones? ",
+    "answerOptions": [
+      {
+        "answerText": "Canister, catalizador y carburador .",
+        "isCorrect": false
+      },
+      {
+        "answerText": "El catalizador y la valvula de regulacion de gases de escape.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "La mufla y el catalizador.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 69,
+    "questionText": "Si el conductor se sintiera alterado por alguna condicion mental,¿que debera hacer? ",
+    "answerOptions": [
+      {
+        "answerText": "Detenerse en la farmacia y comprar relajantes musculares.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Dejar a otra persona que maneje el automovil.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Continuar el recorrido sin importar esta condicion.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 70,
+    "questionText": "¿Para que tipo de condicion meteorologica adversa se recomienda reducir la velocidad y tomar fuerte el volante? ",
+    "answerOptions": [
+      {
+        "answerText": "Lluvia.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Ceniza Volcanica.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Viento.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 71,
+    "questionText": "Segun la ley de transito, los vehiculos amigables con el ambiente... ",
+    "answerOptions": [
+      {
+        "answerText": "Estan exclusivos de la restriccion vehicular.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "No tienen acceso al area metropolitana.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Tienen acceso restringido a toda el area metropolitana.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 72,
+    "questionText": "¿Cual es la velocidad maxima permitida para circular en una rotonda? ",
+    "answerOptions": [
+      {
+        "answerText": "20 Kilometros por hora.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "30 Kilometros.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "40 Kilometros.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 73,
+    "questionText": "¿Que articulo de la ley de transito establece el uso obligatorio de casco para la motocicleta? ",
+    "answerOptions": [
+      {
+        "answerText": "Articulo 117 inciso C.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Articulo 117 inciso D.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Articulo 127 inciso D.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 74,
+    "questionText": "En el caso de que dos vehiculos lleguen a una interseccion no regulada ni señalada, ¿cual maniobra tiene prioridad? ",
+    "answerOptions": [
+      {
+        "answerText": "Giro hacia la derecha.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Giro hacia la izquierda.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Movimiento directo.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 75,
+    "questionText": "¿Cual de las siguientes condiciones emocionales hace que el conductor sea iiresponsable y excesivamente atrevido y audaz? ",
+    "answerOptions": [
+      {
+        "answerText": "Exhibicionismo.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Agresividad.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Temeridad.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 76,
+    "questionText": "¿Cual es la principal funcion del tacometro? ",
+    "answerOptions": [
+      {
+        "answerText": "Medir las revoluciones por minuto del vehiculo.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Medir el diagrama de velocidades del vehiculo.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Medir el ralenti del vehiculo.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 77,
+    "questionText": "¿Que sistema de la motocicleta se compone por tubos, carburador, filtro de aire y tanque de combustible? ",
+    "answerOptions": [
+      {
+        "answerText": "Sistema de alimentacion.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Sistema de suspension.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Sistema de escape.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 78,
+    "questionText": "¿Debido a que causa se incrementan las cantidades de monoxido de carbono (Cen la atmosfera? ",
+    "answerOptions": [
+      {
+        "answerText": "Debido al incremento de las lluvias acidas.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Debido al incremento en la factura petrolera.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Debido al incremento de vehiculos, aceites y particulas de asbesto en los lugares publicos.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 79,
+    "questionText": "¿En que fecha se modifico la ley de transito para cambiar el tipo de sanciones y su severidad? ",
+    "answerOptions": [
+      {
+        "answerText": "Febrero de 2011.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Octubre de 2012.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Marzo de 2010.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 80,
+    "questionText": "¿Que podra hacer el conductor de un vehiculo situado en el carril externo derecho de una rotonda? ",
+    "answerOptions": [
+      {
+        "answerText": "Podra ingresar en ella y tomar la primera o la segunda salida.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Padra circular por el carril interno de la rotonda.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Podra ingresar en ella y tomar la tercera salida.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 81,
+    "questionText": "¿De que tipo de via forma parte la superficie de rodamiento? ",
+    "answerOptions": [
+      {
+        "answerText": "Via rural.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Via urbana.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Via rural y urbana.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 82,
+    "questionText": "Los factores ambiantales, humano y vehicular se interrelacionaran con... ",
+    "answerOptions": [
+      {
+        "answerText": "La via publica.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "La estructura vial.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "La circulacion.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 83,
+    "questionText": "¿Que direccion llevaran las calles? ",
+    "answerOptions": [
+      {
+        "answerText": "Este a Oeste.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Noroeste a Sureste.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Norte a Sur.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 84,
+    "questionText": "¿Cual de las siguientes condiciones emocionales hace que el conductor se moleste con cualquier situacion y se altere con facilidad? ",
+    "answerOptions": [
+      {
+        "answerText": "Vanidad.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Ligereza.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Susceptibilidad.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 85,
+    "questionText": "¿DCual es la definicion de peaton? ",
+    "answerOptions": [
+      {
+        "answerText": "Usuario natural y tercero en la via.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Usuario natural y segundo en la via.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Usuario natural y primero en la via.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 86,
+    "questionText": "¿Que sistema del vehiculo es el que se encarga de evacuar los gases quemados resultantes del proceso de combustion? ",
+    "answerOptions": [
+      {
+        "answerText": "Sisteme electrico.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Sistema de escape.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Sistema de lubricacion.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 87,
+    "questionText": "¿A que tipo de señalamiento pertenecen los semaforos preventivos, vehiculares y peatonales? ",
+    "answerOptions": [
+      {
+        "answerText": "Señalamiento Horizontal.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Señalamiento Vertical.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Señalamiento Luminoso.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 88,
+    "questionText": "Si cuidamos nuestro carro... ¿a que objetivo de la seguridad vial estaremos contribuyendo? ",
+    "answerOptions": [
+      {
+        "answerText": "Mayor fluidez del transito.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Menor contaminacion unicamente.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Menor contaminacion, mas seguridad y mejor economia.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 89,
+    "questionText": "¿La acumulacion de 5 a 8 puntos en la licencia de conducir hara que el conductor al renovarla? ",
+    "answerOptions": [
+      {
+        "answerText": "Tenga una vigencia en la licencia de 4 años.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Tenga una vigencia en la licencia de 3 años.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Tenga una vigencia en la licencia de 6 años.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 90,
+    "questionText": "¿Los conceptos de factor humano, factor vehiculo y factor via y entorno componen lo que se le conoce como? ",
+    "answerOptions": [
+      {
+        "answerText": "Circulacion.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Ley de transito.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Trilogia vial.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 91,
+    "questionText": "¿La acumulacion de 5 o mas puntos en la licencia de conducir implica para cualquier conductor? ",
+    "answerOptions": [
+      {
+        "answerText": "El deber de realizar un curso de sensibilizacion y reeducacion vial.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Deber de renovar el documento.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Perder su licencia para siempre.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 92,
+    "questionText": "¿Que se vera afectado en el conductor si ingiere alcohol? ",
+    "answerOptions": [
+      {
+        "answerText": "Estabilidad, concentracion y somnolencia.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Reflejos, somnolencia, tiempo de reaccion y perdida de vision.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Unicamente su estado de animo.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 93,
+    "questionText": "¿Que dejaremos accionado cada vex que estacionemos en una pendiente abajo? ",
+    "answerOptions": [
+      {
+        "answerText": "El freno de emergencia y la marcha neutra.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "El freno de emergencia y la reversa.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "El freno de emergencia y la primera marcha.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 94,
+    "questionText": "¿Cual es la fuerza que se opone al desplazamiento y esta compuesta por la fuerza de arrastre y la de sustentacion? ",
+    "answerOptions": [
+      {
+        "answerText": "Fuerza de inercia.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Fuerza aerodinamica.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Fuerza centrifuga.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 95,
+    "questionText": "¿Cual de las siguientes lineas indica donde se dben detener los conductores en un ALTO o CEDA? ",
+    "answerOptions": [
+      {
+        "answerText": "Linea de borde.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Linea de restriccion.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Linea de parada",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 96,
+    "questionText": "¿De que sistema del vehiculo forman parte la ballesta y las rotulas? ",
+    "answerOptions": [
+      {
+        "answerText": "Sistema de direccion .",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Sistema de frenos.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Sistema de amortiguacion y suspension.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 97,
+    "questionText": "¿Cual de estas NO es una aseveracion correcta sobre el semaforo vehicular? ",
+    "answerOptions": [
+      {
+        "answerText": "Permite el movimiento vehicular continuo a lo largo de una via principal.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Disminuye la velocidad de los vehiculos.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Regula solamente el transito vehicular.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 98,
+    "questionText": "¿Cual de las siguientes es una norma basica de las rotondas? ",
+    "answerOptions": [
+      {
+        "answerText": "Los que se encuentra dentro de la via circular siempre tendran la preferencia de paso sobre aquellos que pretendan ingresar en ella.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "La velocidad minima a la que se podra circular es de 30 kilometros por hora.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Los vehiculos que circulen dentro de la rotonda lo haran siempre por el carril interno.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 99,
+    "questionText": "Al transitar por una curva... ",
+    "answerOptions": [
+      {
+        "answerText": "Se debe mantener en su carril y nunca se debe adelantar.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Se debe mantener la velocidad con la que se ingreso.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Todas son correctas.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 100,
+    "questionText": "¿Que tipo de contaminacion es la que provoca el ruido del transito denso en las poblaciones? ",
+    "answerOptions": [
+      {
+        "answerText": "Contaminacion calorica.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Contaminacion luminica.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Contaminacion sonica.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 101,
+    "questionText": "¿De que sistema del vehiculo forman parte el abanico y el radiador? ",
+    "answerOptions": [
+      {
+        "answerText": "Sistema de enfriamiento.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Sistema de embrague.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Sistema electrico.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 102,
+    "questionText": "¿En que tipos se clasifican los principales contaminantes del aire? ",
+    "answerOptions": [
+      {
+        "answerText": "Contaminacion de ozono, argon y oxigeno.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Contaminacion de nitrogeno y asbesto.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Contaminacion primarios y secundarios.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 103,
+    "questionText": "¿El mecanismo de acumulacion de puntos que estable la Ley de Transito, hara que los conductores acumulen puntos cuando cometen infracciones de los articulos? ",
+    "answerOptions": [
+      {
+        "answerText": "32-33-36.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "83-84.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "143-144.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 104,
+    "questionText": "¿Que nombre recibe la linea amarilla de tipo discontinuo que podemos encontrar en la calzada? ",
+    "answerOptions": [
+      {
+        "answerText": "Linea de via.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Linea de barrera.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Linea de centro.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 105,
+    "questionText": "¿Que dos de los siguientes componentes forman parte del interior del motor? ",
+    "answerOptions": [
+      {
+        "answerText": "Catalizador y bielas.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Catalizador y silenciadores.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Bielas y embolo.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 106,
+    "questionText": "¿Cual es uno de los errores mas comunes que los conductores cometen dentro de las rotondas? ",
+    "answerOptions": [
+      {
+        "answerText": "Circular a una velocidad inferior a 20 kilometros por hora.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "No señalizar con luces direccionales cuando van a salir.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Ubicarse en el carril izquierdo para las salidas segunda y tercera.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 107,
+    "questionText": "¿Con que fuerza estan relacionados los sobreniveles que encontramos en algunas curvas? ",
+    "answerOptions": [
+      {
+        "answerText": "Con la fuerza por inercia.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Con la fuerza centrifuga.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Con la fuerza aerodinamica.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 108,
+    "questionText": "Un vehiculo circula por el carril externo de una rotonda y otro quiere entrar por el carril interno ¿ Cual de los dos tiene prioridad? ",
+    "answerOptions": [
+      {
+        "answerText": "El vehiculo que ya esta dentro de la rotonda y va por el carril externo.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Ambos tendran la misma prioridad.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "El vehiculo que entra por el carril interno, ya que tendra prioridad por ser el carril de facil acceso.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 109,
+    "questionText": "¿Que indica el articulo 226 de la Ley de Transito? ",
+    "answerOptions": [
+      {
+        "answerText": "Cuales son los limites de ruido permitidos y sus sanciones.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Que todos los habitantes deben conservar la seguridad y limpieza de las vias publicas.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Que todos los habitantes deberan mantener la limpieza de calles y parques.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 110,
+    "questionText": "¿Que nombre recibe la ciencia que estudia los efectos y las causas de los accidentes de transito? ",
+    "answerOptions": [
+      {
+        "answerText": "Trilogia Vial.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Accidentologia Vial.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Seguridad Vial.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 111,
+    "questionText": "¿La bateria forma parte del Siguiente subsistema del sistema electrico? ",
+    "answerOptions": [
+      {
+        "answerText": "Sistema de arranque.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Sistema de acumulacion.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Sistema de alumbrado.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 112,
+    "questionText": "¿Que nombre recibe la persona que se encarga de realizar una boleta de infraccion? ",
+    "answerOptions": [
+      {
+        "answerText": "Juez.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Agente Judicial.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Sancionador.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 113,
+    "questionText": "¿A que se debe el efecto de menos divisas? ",
+    "answerOptions": [
+      {
+        "answerText": "A la demanda de recursos.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "A la importancia de derivados del petroleo.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "A la exportacion de derivados del petroleo.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 114,
+    "questionText": "¿Cual de los siguientes es un elemento del que depende la conduccion nocturna? ",
+    "answerOptions": [
+      {
+        "answerText": "La ligereza.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "La aceleracion.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "La velocidad.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 115,
+    "questionText": "¿Cuales son las partes principales del sistema de embrague? ",
+    "answerOptions": [
+      {
+        "answerText": "Rol de empuje, disco, amortiguadores, plato de presion y horquilla.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Horquilla, plato de presion, rol de empuje y disco.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Rol de empuje, horquilla, abanico, disco y plato de presion.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 116,
+    "questionText": "En el caso de que dos vehiculos lleguen a una interseccion no regulada ni señalada, ¿cual maniobra tiene prioridad? ",
+    "answerOptions": [
+      {
+        "answerText": "Giro hacia la derecha.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Giro hacia la izquierda.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Movimiento directo.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 117,
+    "questionText": "¿Cual de las siguientes es una condicion mental que podra afectar a la capacidad del conductor? ",
+    "answerOptions": [
+      {
+        "answerText": "Visibilidad.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Homeostasis.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Sensaciones Positivas.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 118,
+    "questionText": "¿Que nombre recibe la regla que establece la distancia que debe mantener un vehiculo pesado con el vehiculo de adelante? ",
+    "answerOptions": [
+      {
+        "answerText": "Regla de los dos segundos.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Regla del Intervalo.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Regla de mil ciento 2.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 119,
+    "questionText": "¿En que dos categorias se dividen los problemas de salud que nos pueden impedir conducir? ",
+    "answerOptions": [
+      {
+        "answerText": "Primarios o Secundarios.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Permanentes o Transitorios.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Peligrosos o Pasivo.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 120,
+    "questionText": "¿Tiene el CEDA prioridad de paso sobre el ALTO? ",
+    "answerOptions": [
+      {
+        "answerText": "Si.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Depende del tipo de carretera.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "No.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 121,
+    "questionText": "¿Cual de las siguientes acciones ha elevado la Ley 9078 a rango de delito? ",
+    "answerOptions": [
+      {
+        "answerText": "Conducir en la calzada.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Conducir a mas de 150 km/hora.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Conducir a la defensiva.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 122,
+    "questionText": "¿Como se llama el analisis que determina si un conductor ha ingerido alcohol? ",
+    "answerOptions": [
+      {
+        "answerText": "Alcohosensor.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Alcohomedidor.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Alcoholimetria.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 123,
+    "questionText": "¿De que formaran parte el sistema de control de emisiones? ",
+    "answerOptions": [
+      {
+        "answerText": "De los dispositivos que controlan la temperatura en el sistema de enfriamiento.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "De los dispositivos que controlan la emision de gases dentro del motor.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "De los dispositivos que controlan el frenado dentro del sistema de embrague.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 124,
+    "questionText": "¿De cuantas secciones o componentes estructurales dispone una via urbana? ",
+    "answerOptions": [
+      {
+        "answerText": "4.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "3.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "2.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 125,
+    "questionText": "¿Cual es la velocidad maxima permitida para circular en una rotonda? ",
+    "answerOptions": [
+      {
+        "answerText": "20 Kilometros por hora.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "40 Kilometros por hora.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "30 kilometros por hora.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 126,
+    "questionText": "Los conceptos de servicio y transporte unidos nos dan una idea de lo que significa... ",
+    "answerOptions": [
+      {
+        "answerText": "Transitar.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Circular.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Prevenir.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 127,
+    "questionText": "¿A que es igual el factor via y en su entorno? ",
+    "answerOptions": [
+      {
+        "answerText": "Al medio ambiente.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "A la via publica.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Al clima.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 128,
+    "questionText": "¿Se demarca sobre la calzada con pintura especial para transito? ",
+    "answerOptions": [
+      {
+        "answerText": "Las lineas en la calzada.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "El señalamiento horizontal.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Las laminas ubicadas en postes o lugares elevados.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 129,
+    "questionText": "¿De que sistema del vehiculo forman parte las barras de torsion y la rotula? ",
+    "answerOptions": [
+      {
+        "answerText": "Sistema de alimentacion.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Sistema de suspension y amortiguadores.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Sistema de escape.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 130,
+    "questionText": "¿Que tres procesos Intervendran en la conduccion de un vehiculo? ",
+    "answerOptions": [
+      {
+        "answerText": "Percepcion, Inteleccion y Aptitud.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Percepcion, Inteleccion y Volicion.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Percepcion, Aptitud y Volicion.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 131,
+    "questionText": "¿Que elemento de la Infraestructura vial tiene como funcion regular el paso de las corrientes de vehiculos y el sentido de las vias? ",
+    "answerOptions": [
+      {
+        "answerText": "Señalamiento.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Interseccion.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Vias de Circulacion.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 132,
+    "questionText": "¿Que tipo de vehiculo se permite conducir con la licencia de tipo A-1, segun el articulo 85? ",
+    "answerOptions": [
+      {
+        "answerText": "Bicimotos y motocicletas de combustion interna con cilindrada inferior a 125cc.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Cualquier bicimoto y motocicleta, sin importar la cilindrada.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Bicimotos y motocicletas de combustion interna con cilindrada inferior a los 500cc.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 133,
+    "questionText": "¿En que subsistemas se divide el sistema electrico? ",
+    "answerOptions": [
+      {
+        "answerText": "Sistemas de servicio, de alumbrado y de emergencia.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Sistemas de alumbrado, de señalizacion y de acumulacion.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Sistema de arranque, de carga y de alumbrado y servicios.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 134,
+    "questionText": "¿Cuales son los tipos de via que existen? ",
+    "answerOptions": [
+      {
+        "answerText": "Via rural y via urbana.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Ciclovia y via urbana.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Via Urbana y via industrial.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 135,
+    "questionText": "¿Cual es el numero de la ley que rige en la actualidad? ",
+    "answerOptions": [
+      {
+        "answerText": "9078.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "6324.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "7331.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 136,
+    "questionText": "¿Que funcion cumple el sistema de embrague? ",
+    "answerOptions": [
+      {
+        "answerText": "Suministrar la corriente electrica al motor .",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Separar el sistea de transmision del motor.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Evacuar los gases quemados que emite el vehiculo por su propio funcionamiento.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 137,
+    "questionText": "¿En que lugar se mezclan el combustible y el aire cuando el motor es de inyeccion directa? ",
+    "answerOptions": [
+      {
+        "answerText": "Camara de combustion.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Carburador .",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Catalizador.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 138,
+    "questionText": "¿De que sistema del vehiculo forman parte la horquilla y el plato de presion? ",
+    "answerOptions": [
+      {
+        "answerText": "Sistema de dirrecion.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Sistema de embrague.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Sistema de suspension.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 139,
+    "questionText": "¿Que es el tiempo de recuperacion que puede sufrir el conductor al conducir en la noche? ",
+    "answerOptions": [
+      {
+        "answerText": "La perdida de vision del 50% respecto a lo que se ve en el dia.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "La variacion de iluminacion de una carretera respecto a lo conduccion diurna.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "La perdida de vision momentaneas al encandilarse.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 140,
+    "questionText": "El sistema de acumulacion de puntos es establecido por la Ley de Transito como un mecanismo de... ",
+    "answerOptions": [
+      {
+        "answerText": "Control de regalias.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Control del desempeño.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Control de conductores profesionales.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 141,
+    "questionText": "¿Cuales son algunos de los elementos que componen el sistema general del control de emisiones? ",
+    "answerOptions": [
+      {
+        "answerText": "Canister, Catalizador y Carburador.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "El Catalizador y la Valvula de regulacion de gases de escape.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "La Mufla y el Catalizador.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 142,
+    "questionText": "¿Cual de las siguientes lineas indica donde se deben detener los conductores en un ALTO o CEDA? ",
+    "answerOptions": [
+      {
+        "answerText": "Lineas de borde.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Linea de restriccion.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Linea de parada.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 143,
+    "questionText": "¿Donde se debe ubicar el conductor en una rotonda? ",
+    "answerOptions": [
+      {
+        "answerText": "Se debera colocar siempre en el carril central de ingreso.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Se debera colocar en el carril segun cual sea su direccion de salida.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Se debera colocar en el carril que le ofrezca una mejor visibilidad.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 144,
+    "questionText": "¿Cual es el mejor metodo para conducir por una ciudad? ",
+    "answerOptions": [
+      {
+        "answerText": "Metodo de pie de pluma.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Metodo de zona verde.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Metodo de cambio progresivo.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 145,
+    "questionText": "¿Que se recomienda para el correcto cuidado del vehiculo? ",
+    "answerOptions": [
+      {
+        "answerText": "Conducir siempre a la defensiva.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Planificar las rutas de viaje para ahorrar combustible.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Revisar periodicamente el agua del radiador, las llantas y cambiar los filtros.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 146,
+    "questionText": "¿Que elemento provee la fuerza de traccion a la motocicleta? ",
+    "answerOptions": [
+      {
+        "answerText": "El motor de la motocicleta.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Los cambios de la motocicleta.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "El acelerador de la motocicleta.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 147,
+    "questionText": "¿Con cuales acciones se inicia la conduccion eficiente? ",
+    "answerOptions": [
+      {
+        "answerText": "Manteniendo sin obstaculos los frentes de las casas y las calles.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Siguiendo la normativa de la accidentologia para evitar accidentes.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Revision de las llantas, afinado de motor y cambio a tiempo del aceite.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 148,
+    "questionText": "¿Cual de las siguientes afirmaciones sobre las rotondas sera cierta? ",
+    "answerOptions": [
+      {
+        "answerText": "Se debera respetar siempre las zonas de paso peatonal.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Se debera conducir a un minimo de 40 Kilometros por hora para salir lo mas rapido posible.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "El radio de la rotonda hace que los conductores que le atraviesan deban controlar su velocidad.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 149,
+    "questionText": "¿Que tres caracteristicas tendra el conductor que maneje a la defensiva? ",
+    "answerOptions": [
+      {
+        "answerText": "Esperar todo, imajinar todo y suponer todo.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Saber esperar, suponer y actuar.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Actuar, imaginar y saber esperar.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 150,
+    "questionText": "¿De que tipo de via forma parte la superficie de rodamiento? ",
+    "answerOptions": [
+      {
+        "answerText": "Via rural.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Via urbana.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Via rural y urbana.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 151,
+    "questionText": "¿De que sistema del vehiculo forman parte el abanico y el radiador? ",
+    "answerOptions": [
+      {
+        "answerText": "Sistema de enfriamiento.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Sistema de embrague.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Sistema electrico.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 152,
+    "questionText": "En caso de neblina: ",
+    "answerOptions": [
+      {
+        "answerText": "Reducir la velocidad y utilizar la luz alta.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Todas las anteriores.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Seguir atentamente el señalamiento de los ojos de gato y las demarcaciones.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 153,
+    "questionText": "¿Que accion se recomienda llevar a cabo antes de hacer una maniobra en una interseccion? ",
+    "answerOptions": [
+      {
+        "answerText": "Mirar a la izquierda, posteriormente a la derecha, y otra vez a la izquierda.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Asegurarnos de que visualizamos las llantas del vehiculo que nos procede.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Acelerar para pasar antes que el resto de vehiculos.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 154,
+    "questionText": "¿Cuales son las modalidades de la licencia de conducir tipo A? ",
+    "answerOptions": [
+      {
+        "answerText": "A-1 Y A-2.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "A-1,A-2 y A-3.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "A-1,A2,A-3 y A-4.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 155,
+    "questionText": "¿Cuales son las principales fuentes de la contaminacion provocada por particulas micrometricas? ",
+    "answerOptions": [
+      {
+        "answerText": "La contaminacion provocada por la industria.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "El desorden en el transito  en  general.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Las emisiones de los vehiculos.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 156,
+    "questionText": "¿Cuales son las causas de la contaminacion y las alteraciones en el medio ambiente? ",
+    "answerOptions": [
+      {
+        "answerText": "El imcremento poblacional, el consumo y el descuido de los conductores.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "El efecto invernadero.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "El impacto del hombre en el correcto equilibrio de la naturaleza.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 157,
+    "questionText": "¿A que se le llama angulo muerto? ",
+    "answerOptions": [
+      {
+        "answerText": "A la distancia de seguridad que debemos dejar entre dos vehiculos.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "A la zona situada detras del conductor y a ambos lados, que no podemos visualizar a traves de los retrovisores laterales.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "A la zona que podemos ver a traves de los espejos retrovisores.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 158,
+    "questionText": "¿Como debe hacerse la accion de frenar una motocicleta? ",
+    "answerOptions": [
+      {
+        "answerText": "De manera progresiva y con suavidad.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Con contudancia en cualquier tipo de situacion.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Con una anticipacion de tres segundos como minimo.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 159,
+    "questionText": "¿Que distancia de seguridad debemos mantener con el vehiculo que nos antecede cuando circulamos en motocicleta? ",
+    "answerOptions": [
+      {
+        "answerText": "Distancia de 3 segundos.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Distancia de 2 segundos.",
+        "isCorrect": true
+      },
+      {
+        "answerText": "Distancia de 1 segundo.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 160,
+    "questionText": "¿Que cuidado diario deberemos tomar en cuenta en el vehiculo? ",
+    "answerOptions": [
+      {
+        "answerText": "Revisar la tension de las fajas del abanico.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Cambiar el aceite del motor.",
+        "isCorrect": false
+      },
+      {
+        "answerText": "Limpiar las ventanillas, comprobar el funcionamiento de las escobillas y llevar triangulos.",
+        "isCorrect": true
+      }
+    ]
+  }
+]
